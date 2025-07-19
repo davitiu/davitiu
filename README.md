@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davitiu
-- 👀 I’m interested in AI, Python, R, Java, CSS, JavaScript, HTML, TensorFlow, Physics, Development, Technologies
-- 🌱 I’m currently learning Programming
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on every interesting subject in high-tech and physics.
 - 📫 How to reach me davitiu@gmail.com
 
